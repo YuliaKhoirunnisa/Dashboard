@@ -20,3 +20,6 @@ pip install -r requirements.txt
 ```
 streamlit run dashboard.py
 ```
+
+## Link Streamlit
+https://dashboard-penyewa-sepeda.streamlit.app/
