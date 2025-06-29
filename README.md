@@ -23,3 +23,7 @@ streamlit run dashboard.py
 
 ## Link Streamlit
 https://dashboard-penyewa-sepeda.streamlit.app/
+
+**Dashboard Utama**
+![utama](https://github.com/user-attachments/assets/8424d279-6cdc-41bb-b57b-5537b99a1900)
+
